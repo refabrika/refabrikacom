@@ -66,7 +66,7 @@ export default function Home() {
             <div className="cta-text">Start Your Transformation</div>
             <div className="flex flex-col" style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
               <a href="mailto:hello@refabrika.com" className="email">hello@refabrika.com</a>
-              <a href="tel:+905323745568" className="email">+90 532 374 55 68</a>
+              <a href="https://wa.me/905323745568" className="email">+90 532 374 55 68</a>
             </div>
           </div>
         </header>
